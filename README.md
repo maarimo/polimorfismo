@@ -13,3 +13,8 @@ importados, a taxa e alfândega deve ser
 acrescentada ao preço final do produto.
 Favor implementar o programa conforme
 projeto ao lado.
+
+
+![{C4A6C513-37DF-41B0-AE53-5B8B57FA24A3}](https://github.com/user-attachments/assets/c24edbec-038a-479b-9989-fdc9fa617887)
+
+Neste exercicio consegui aplicar varios dos conhecimentos estudados como herança, polimorfismo, listas entre outros mais basicos
